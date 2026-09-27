@@ -40,46 +40,39 @@
     <h2>1. Kirish</h2>
     <p>Ushbu maxfiylik siyosati FlixNova mobil ilovasi qanday ma'lumot yig'ishi, ishlatishi va saqlashini tushuntiradi. Ilovadan foydalanish orqali siz ushbu siyosatga rozilik bildirasiz.</p>
 
-    <h2>2. Hisobga kirish</h2>
-    <p>Ilovaga faqat Telegram orqali kirish mumkin. Kirish paytida Telegram'dan foydalanuvchi ID raqami, ismi va profil rasmi (agar mavjud bo'lsa) olinadi. Bu ma'lumotlar faqat sizning hisobingizni aniqlash va ilova ichidagi tajribangizni saqlash uchun ishlatiladi.</p>
-
-    <h2>3. Video kontent qanday yetkaziladi</h2>
-    <p>Anime va boshqa videolarni ikki usulda tomosha qilishingiz mumkin: to'g'ridan-to'g'ri ilova ichida, yoki Telegram bot orqali. Telegram orqali yuborilgan video xabarlar botning ichki tizimida taxminan 3 kun davomida saqlanadi, so'ngra avtomatik o'chiriladi.</p>
-
-    <h2>4. Qanday ma'lumotlar yig'iladi</h2>
+    <h2>2. Qanday ma'lumotlar yig'iladi</h2>
     <ul>
-      <li><strong>Hisob ma'lumotlari:</strong> Telegram foydalanuvchi ID, ism va profil rasmi.</li>
-      <li><strong>Foydalanish ma'lumotlari:</strong> ko'rish tarixi, sevimlilar (like), reyting va baholashlar, tomosha ro'yxati (watchlist), yig'ilgan tangachalar (coins).</li>
+      <li><strong>Hisob ma'lumotlari:</strong> Telegram orqali kirganda profil nomi va profil rasmi (agar mavjud bo'lsa).</li>
+      <li><strong>Foydalanish ma'lumotlari:</strong> ko'rish tarixi, sevimlilar (like), reyting va baholashlar, tomosha ro'yxati (watchlist).</li>
       <li><strong>Texnik ma'lumotlar:</strong> ilova versiyasi va oddiy statistik ko'rsatkichlar (masalan qaysi anime ko'p tomosha qilingani).</li>
     </ul>
 
-    <h2>5. Ma'lumotlar qanday ishlatiladi</h2>
-    <p>Yig'ilgan ma'lumotlar faqat quyidagi maqsadlarda ishlatiladi: ilova ichidagi shaxsiy tajribani ta'minlash (tomosha tarixi, tavsiyalar), hisobingizni saqlash va sinxronlash, tangachalar hisobini yuritish, ilovani yaxshilash uchun umumiy statistika yig'ish.</p>
+    <h2>3. Ma'lumotlar qanday ishlatiladi</h2>
+    <p>Yig'ilgan ma'lumotlar faqat quyidagi maqsadlarda ishlatiladi: ilova ichidagi shaxsiy tajribani ta'minlash (tomosha tarixi, tavsiyalar), hisobingizni saqlash va sinxronlash, ilovani yaxshilash uchun umumiy statistika yig'ish.</p>
 
-    <h2>6. Ma'lumotlarni saqlash</h2>
+    <h2>4. Ma'lumotlarni saqlash</h2>
     <p>Ma'lumotlar Google Firebase (Firestore) va ilova serverida (PostgreSQL bazasida) saqlanadi. Ma'lumotlarga faqat FlixNova jamoasi kira oladi.</p>
 
-    <h2>7. Uchinchi shaxslar bilan almashish</h2>
-    <p>FlixNova foydalanuvchilarning shaxsiy ma'lumotlarini uchinchi shaxslarga <strong>sotmaydi va bermaydi</strong>. Istisno sifatida faqat quyidagi xizmat ko'rsatuvchilar ilovaning ishlashi uchun zarur bo'lgan texnik ma'lumotlarga ega bo'lishi mumkin:</p>
+    <h2>5. Uchinchi shaxslar bilan almashish</h2>
+    <p>Biz foydalanuvchilarning shaxsiy ma'lumotlarini uchinchi shaxslarga sotmaymiz va bermaymiz. Istisno sifatida faqat quyidagi xizmat ko'rsatuvchilar ilovaning ishlashi uchun zarur bo'lgan texnik ma'lumotlarga ega bo'lishi mumkin:</p>
     <ul>
       <li>Google Firebase — ma'lumotlarni saqlash va sinxronlash uchun.</li>
       <li>Google AdMob — ilova ichida reklama ko'rsatish uchun.</li>
-      <li>Telegram — kirish (login) va video yetkazish uchun.</li>
     </ul>
 
-    <h2>8. Reklama va tangachalar</h2>
-    <p>FlixNova ilovasida Google AdMob orqali reklamalar ko'rsatiladi. Reklamalarni ko'rish orqali ilova ichida ishlatiladigan tangachalar (coins) yig'ishingiz mumkin. AdMob o'zining maxfiylik siyosatiga muvofiq ma'lumot to'plashi mumkin. Batafsil: <a class="inline" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Maxfiylik siyosati</a>.</p>
+    <h2>6. Reklama</h2>
+    <p>FlixNova ilovasida Google AdMob orqali reklamalar ko'rsatilishi mumkin. AdMob o'zining maxfiylik siyosatiga muvofiq ma'lumot to'plashi mumkin. Batafsil: <a class="inline" href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Maxfiylik siyosati</a>.</p>
 
-    <h2>9. Bolalar maxfiyligi</h2>
+    <h2>7. Bolalar maxfiyligi</h2>
     <p>FlixNova ilovasi 13 yoshdan kichik bolalarga ataylab mo'ljallanmagan va ulardan ongli ravishda shaxsiy ma'lumot yig'maydi.</p>
 
-    <h2>10. Ma'lumotlarni o'chirish</h2>
+    <h2>8. Ma'lumotlarni o'chirish</h2>
     <p>Hisobingiz va unga tegishli ma'lumotlarni o'chirishni so'rash uchun quyidagi bo'limdagi manzil orqali biz bilan bog'laning.</p>
 
-    <h2>11. Siyosatdagi o'zgarishlar</h2>
+    <h2>9. Siyosatdagi o'zgarishlar</h2>
     <p>Ushbu maxfiylik siyosati vaqti-vaqti bilan yangilanishi mumkin. Muhim o'zgarishlar haqida ilova orqali xabar beramiz.</p>
 
-    <h2>12. Bog'lanish</h2>
+    <h2>10. Bog'lanish</h2>
     <p>Savollar yoki so'rovlar uchun: @FlixNova_admin</p>
   </div>
 </body>
